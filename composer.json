@@ -1,6 +1,6 @@
 {
     "name": "tesda/basic-competencies-program-prospectus",
-    "description": "Vanilla Integration for Enrollment Procedure and Workflow",
+    "description": "TESDA TVET basic competencies prospectus",
     "type": "project",
     "keywords": ["TESDA Basic Competencies", "TVET Program"],
     "homepage": "https://github.com/TesdaComponents/basic-competencies-program-prospectus",
