@@ -1,0 +1,19 @@
+{
+    "name": "tesda/basic-competencies-program-prospectus",
+    "description": "Vanilla Integration for Enrollment Procedure and Workflow",
+    "type": "project",
+    "keywords": ["TESDA Basic Competencies", "TVET Program"],
+    "homepage": "https://github.com/TesdaComponents/basic-competencies-program-prospectus",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gab Amba",
+            "email": "gamba@gabbydgab.com",
+            "homepage": "http://www.gabbydgab.com/"
+        }
+    ],    
+    "require": {
+        "php": "^7.0",
+        "roave/security-advisories": "dev-master"
+    }
+}
